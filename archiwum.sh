@@ -1,5 +1,5 @@
 #!/bin/bash
-ARCHIVE_PATH=/home/s96462/archiwum
+ARCHIVE_PATH=/home/s96470/archiwum
 DATE=date +%d-%m-%y
 arg=$#
 if [ "$#" = 1 ]; then
